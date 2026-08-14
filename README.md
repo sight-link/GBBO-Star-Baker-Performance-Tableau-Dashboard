@@ -36,6 +36,6 @@ cd GBBO-Star-Baker-Performance-Tableau-Dashboard
 
 ## Dashboard_preview
 **Star Baker performance for the GBBO**
-![Static Preview of DDPM](./viz_outputs/Performance_in_Technical.png)
-
 ![Static Preview of DDPM](./viz_outputs/Baker_Performance.png)
+
+![Static Preview of DDPM](./viz_outputs/Performance_in_Technical.png)
