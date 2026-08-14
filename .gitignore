@@ -1,0 +1,13 @@
+# Tableau Cache, temporary files
+*.tde
+*.hyper
+*.twb.lock
+*.log
+Tableau Temp Files/
+
+# System cache
+.DS_Store
+Thumbs.db
+
+# Jupyter cache
+.ipynb_checkpoints/
