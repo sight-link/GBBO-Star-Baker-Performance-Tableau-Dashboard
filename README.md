@@ -3,7 +3,7 @@ Interactive Tableau visualization for analyzing baker performance in The Great B
 
 ## Live Interactive Dashboard
 Open the fully interactive online Tableau Viz:
-https://public.tableau.com/views/StarBakerperformancefortheGBBO/BakerPerformance?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/StarBakerperformancefortheGBBO/BakerPerformance
 
 ## Project Overview
 This dashboard analyzes competition performance metrics of all contestants in GBBO, including:
