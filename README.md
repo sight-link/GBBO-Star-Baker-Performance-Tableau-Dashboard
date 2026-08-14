@@ -31,3 +31,10 @@ Visit the Tableau Public link above to browse interactive filters, charts and ra
 ```bash
 git clone https://github.com/YourName/GBBO-Star-Baker-Performance-Tableau-Dashboard.git
 cd GBBO-Star-Baker-Performance-Tableau-Dashboard
+
+
+## Dashboard_preview
+**Star Baker performance for the GBBO**
+![Static Preview of DDPM](./viz_outputs/Performance in Technical.png)
+
+![Static Preview of DDPM](./viz_outputs/Baker_Performance.png)
